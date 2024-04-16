@@ -1,0 +1,15 @@
+CSS Flexbox:
+- Flexbox is a one-dimensional layout model that allows you to manage space distribution and alignment between items in a container.
+- It's great for aligning items in a single row or column, making it ideal for smaller-scale designs where you want to align elements in one direction.
+- Flexbox is content-first, meaning it helps you position items based on their content size.
+
+CSS Grid:
+- CSS Grid is a two-dimensional layout system, meaning it can handle both columns and rows.
+- It's perfect for larger-scale layouts that aren't linear, as it gives you more control over your layout.
+- CSS Grid is layout-first, meaning you can design your grid template and then place items into it.
+
+When to use one over the other:
+- Use Flexbox when you're primarily concerned with aligning items along a single row or column, or when you need a content-first design.
+- Use CSS Grid when you're dealing with larger, two-dimensional layouts, or when you need a layout-first design.
+
+In practice, Flexbox and CSS Grid can be used together: you might use Grid for the overall layout of the webpage, and Flexbox for individual components or sections. The choice between Flexbox and Grid ultimately depends on your specific layout needs.
